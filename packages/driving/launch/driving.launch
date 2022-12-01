@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="driving" type="lane_follow_node.py" name="lane_follow_node" output="screen"/>
+  <node pkg="perception" type="lane_perception_node.py" name="lane_perception_node" output="screen"/>
+  <node pkg="driving" type="odometry_node.py" name="odometry_node" output="screen"/>
+  <node pkg="driving" type="intersection_node.py" name="intersection_node" output="screen"/>
+</launch>
