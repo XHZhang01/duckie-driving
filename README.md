@@ -1,5 +1,6 @@
 ## Usage
-This project is aimed at autonomous driving of Duckiebots in a mini city. It has four components, namely lane following, odometry, intersection navigation and state machine. 1. Lane following
+This project is aimed at autonomous driving of Duckiebots in a mini city. It has four components, namely lane following, odometry, intersection navigation and state machine.
+1. Lane following
 
 It detects the white line and the yellow line from the camera images. The Duckiebot can follow and lane and stay in the middle.
 
