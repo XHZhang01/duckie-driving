@@ -1,5 +1,6 @@
 ## Usage
 This project is aimed at autonomous driving of Duckiebots in a mini city. It has four components, namely lane following, odometry, intersection navigation and state machine.
+
 1. Lane following
 
 It detects the white line and the yellow line from the camera images. The Duckiebot can follow and lane and stay in the middle.
@@ -17,6 +18,7 @@ It guides the Duckiebot through the intersection. It first detects the red line 
 It demostrates the current state of the Duckiebot by different light colours and lets the Duckiebot switch among different modes, namely still, forward, backward, right turn and left turn.
 
 ## Execution
+
 1.Build docker image on duckiebot
 
 Run command
