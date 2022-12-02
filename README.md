@@ -4,7 +4,7 @@ This project is aimed at autonomous driving of Duckiebots in a mini city. It has
 
 1.Lane following
 
-It detects the white line and the yellow line from the camera images. The Duckiebot can follow and lane and stay in the middle.
+It detects the white line and the yellow line from the camera images. The Duckiebot can follow the lane and stay in the middle.
 
 2.Odometry
 
